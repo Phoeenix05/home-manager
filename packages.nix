@@ -29,7 +29,7 @@
         neofetch
         pocketbase
         loc
-        surrealdb
+        surrealdb # This took like 20 minutes to build on M1 Pro MacBook.
         jless
         hyperfine
         htop
