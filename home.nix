@@ -48,6 +48,11 @@
     eza
     fzf
     gh
+    bat
+    act
+    zoxide
+    starship
+    fish
 
     # programming languages
     nodejs_20 # Javascript runtime and NPM
@@ -55,6 +60,7 @@
     # lua # Collision with luajit
     python311
     crystal
+    go
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
