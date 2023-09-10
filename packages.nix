@@ -25,6 +25,15 @@
         zoxide
         starship
         fish
+        # git # installed along with xcode command line tools
+        neofetch
+        pocketbase
+        loc
+        surrealdb
+        jless
+        hyperfine
+        htop
+        cmake
 
         # programming languages
         nodejs_20 # Javascript runtime and NPM

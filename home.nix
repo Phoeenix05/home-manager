@@ -43,7 +43,7 @@
     #
     # if you don't want to manage your shell through Home Manager.
     home.sessionVariables = {
-        # EDITOR = "emacs";
+        MTL_HUD_ENABLED = 1;
     };
 
     # Let Home Manager install and manage itself.
