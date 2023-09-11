@@ -44,6 +44,7 @@
     # if you don't want to manage your shell through Home Manager.
     home.sessionVariables = {
         MTL_HUD_ENABLED = 1;
+        EDITOR = "nvim";
     };
 
     # Let Home Manager install and manage itself.

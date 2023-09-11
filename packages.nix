@@ -13,10 +13,13 @@
         luarocks
         deno
 
+        # cli editos (nvim, helix, etc)
+        neovim
+        helix
+
         # utilities
         mprocs
         tldr
-        neovim
         eza
         fzf
         gh
@@ -33,7 +36,6 @@
         jless
         hyperfine
         htop
-        cmake
 
         # programming languages
         nodejs_20 # Javascript runtime and NPM
@@ -42,5 +44,16 @@
         python311
         crystal
         go
+        zig
+        zls # zig lsp
+
+        # other
+        # minetest
+        # mesa_22_3
+        yt-dlp
+
+        # build tools 
+        cmake
+        ninja
     ];
 }
